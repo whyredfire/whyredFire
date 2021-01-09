@@ -3,7 +3,7 @@
 <a href="https://github.com/whyredfire">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyredfire&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/whyredfire" />
 </a>
-<a href="https://github.com/Exynos-nigg">
+<a href="https://github.com/whyredfire">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyredfire&langs_count=14&theme=nord&layout=compact" />
 </a>
 
