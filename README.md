@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/whyredfire">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyredfire&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/whyredfire" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=whyredFire&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/whyredfire" />
 
 
 <!--
